@@ -1,2 +1,3 @@
 Dalmon Marie 
 Croc-Lyonnet Timothée
+De la branche master, nous avons créé une branche mon_fichier dans laquelle nous avons commit le fichier TP3_Dalmon_CrocLoynnet.txt en deux étapes (git add puis git commit). Après la modification de ce fichier texte, il nous faudra le commit à nouveau. 
